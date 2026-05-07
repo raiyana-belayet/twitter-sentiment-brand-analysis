@@ -79,4 +79,4 @@ Real-world data is messy. This project features a robust cleaning pipeline:
 * `README.md`: Project documentation and insights.
 
 ---
-**Developed by [Your Name] as a Data Science & Analytics Portfolio Project.**
+**Developed by Raiyana Binte Belayet as a Data Science & Analytics Portfolio Project.**
